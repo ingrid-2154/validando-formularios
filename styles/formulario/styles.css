@@ -127,6 +127,8 @@
 
 .mensagem-erro {
     color: red;
+    
+  
 }
 
 .campo__escrita--erro {
@@ -136,6 +138,7 @@
 .formulario__mensagem,
 .formulario__camera {
     display: none;
+    margin-top:15px;
 }
 
 .formulario__mensagem--sucesso,
